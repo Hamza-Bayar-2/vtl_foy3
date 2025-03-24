@@ -6,7 +6,7 @@ INSERT INTO birimler (birim_id, birim_ad) VALUES
 (3, 'Güvenlik');
 
 INSERT INTO calisanlar (calisan_id, ad, soyad, maas, katilmaTarihi, calisan_birim_id) VALUES
-(1, 'İsmail', 'İçeri', 100000, '2014-02-20 00:00:00', 1),
+(1, 'İsmail', 'İşeri', 100000, '2014-02-20 00:00:00', 1),
 (2, 'Hami', 'Saltmış', 80000, '2014-06-11 00:00:00', 1),
 (3, 'Durmuş', 'Şahin', 300000, '2014-02-20 00:00:00', 2),
 (4, 'Kağan', 'Yazar', 500000, '2014-02-20 00:00:00', 3),
